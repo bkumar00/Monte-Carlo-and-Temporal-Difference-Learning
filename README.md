@@ -14,8 +14,9 @@ GRID WORLD:
 
 > List of control algorithms implemented:
 
+
 1. Monte Carlo Control            
 
-2.SARSA                  
+2. SARSA
 
-3.Q Learning
+3. Q Learning
